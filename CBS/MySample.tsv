@@ -1,0 +1,23 @@
+# name: MySample
+# fullname: MySample
+# segmentationMethod: segment() of DNAcopy v1.48.0
+# nbrOfLoci: 73346
+# nbrOfSegments: 9
+# joinSegments: TRUE
+# signalType: NA
+# sigmaDelta: 0.3111
+# createdOn: 2016-11-22 11:23:43 PST
+# nbrOfDecimals: 4
+# nbrOfColumns: 6
+# columnNames: sampleName, chromosome, start, end, nbrOfLoci, mean
+# columnClasses: character, integer, numeric, numeric, integer, numeric
+sampleName	chromosome	start	end	nbrOfLoci	mean
+NA	1	554484	86993745	26846	1.3796
+NA	1	86993745	87005243	2	3.1851
+NA	1	87005243	120992603	10647	1.3911
+NA	1	120992604	141510002	0	NA
+NA	1	141510003	185527989	13434	2.0654
+NA	1	185527989	199122066	4018	2.7074
+NA	1	199122066	206512702	2755	2.5861
+NA	1	206512702	206521352	14	3.8719
+NA	1	206521352	247165315	15581	2.6375
