@@ -1,3 +1,5 @@
+#implement CBS as shown in the PSCBS package 
+
 library(PSCBS)
 
 #load test dataset
