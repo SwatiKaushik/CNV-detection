@@ -1,4 +1,5 @@
-#implement CBS as shown in the PSCBS package 
+#implement CBS as discussed in the PSCBS package 
+# first 
 
 library(PSCBS)
 
